@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/d/3-2/CSE 3206/SimpleGTest/LabFinal/build/VehicleFactoryTests[1]_tests.cmake")
+  include("/mnt/d/3-2/CSE 3206/SimpleGTest/LabFinal/build/VehicleFactoryTests[1]_tests.cmake")
+else()
+  add_test(VehicleFactoryTests_NOT_BUILT VehicleFactoryTests_NOT_BUILT)
+endif()

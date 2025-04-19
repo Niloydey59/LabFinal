@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VehicleFactoryTests.dir/tests/VehicleFactoryTests.cpp.o -o VehicleFactoryTests  lib/libgtest_main.a lib/libgtest.a 
